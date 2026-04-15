@@ -1,0 +1,6 @@
+Case 1: 22.2 Gbps
+Case 2: 21.8 Gbps
+Case 3: 21.0 Gbps
+Case 4: 6.96 Mbps
+Case 5: 6.44 Mbps
+Case 6: 5.62 Mbps
